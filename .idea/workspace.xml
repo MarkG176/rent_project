@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5693017-c0bb-481f-be25-94319e553f25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rent_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/fixtures/properties_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/fixtures/tenants_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rent_project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rent_project/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rent_project/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rent_project/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rent_project/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/master.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/payments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/properties.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/tenants.html" afterDir="false" />
-    </list>
+    <list default="true" id="f5693017-c0bb-481f-be25-94319e553f25" name="Changes" comment="added database functions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,11 +83,24 @@
       <option name="presentableId" value="Default" />
       <updated>1733656506045</updated>
       <workItem from="1733656507968" duration="780000" />
-      <workItem from="1733664898294" duration="4499000" />
+      <workItem from="1733664898294" duration="4831000" />
     </task>
+    <task id="LOCAL-00001" summary="added database functions">
+      <option name="closed" value="true" />
+      <created>1733669883021</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733669883021</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added database functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added database functions" />
   </component>
 </project>
